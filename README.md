@@ -18,5 +18,5 @@
 05 - </br>
 04 - </br>
 03 - </br>
-02 - </br>
-01 - </br>
+02 - <b>10 Acusações contra a Igreja Moderna</b> - Paul Washer</br>
+01 - <b>Git e Github</b> - Casa do Código</br>
