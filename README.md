@@ -18,6 +18,6 @@
 006 - </br>
 005 - </br>
 004 - </br>
-003 - <b>O Hobbit e a Filosofia> - William Irwin</br>
+003 - <b>O Hobbit e a Filosofia</b> - William Irwin</br>
 002 - <b>10 Acusações contra a Igreja Moderna</b> - Paul Washer</br>
 001 - <b>Git e Github</b> - Casa do Código</br>
