@@ -1,22 +1,23 @@
 ## :books: Lista dos meus livros lidos.
 ### 2019
 
-19 - </br>
-18 - </br>
-17 - </br>
-16 - </br>
-15 - </br>
-14 - </br>
-13 - </br>
-12 - </br>
-11 - </br>
-10 - </br>
-09 - </br>
-08 - </br>
-07 - </br>
-06 - </br>
-05 - </br>
-04 - </br>
-03 - </br>
-02 - <b>10 Acusações contra a Igreja Moderna</b> - Paul Washer</br>
-01 - <b>Git e Github</b> - Casa do Código</br>
+020 - </br>
+019 - </br>
+018 - </br>
+017 - </br>
+016 - </br>
+015 - </br>
+014 - </br>
+013 - </br>
+012 - </br>
+011 - </br>
+010 - </br>
+009 - </br>
+008 - </br>
+007 - </br>
+006 - </br>
+005 - </br>
+004 - </br>
+003 - <b>O Hobbit e a Filosofia> - William Irwin</br>
+002 - <b>10 Acusações contra a Igreja Moderna</b> - Paul Washer</br>
+001 - <b>Git e Github</b> - Casa do Código</br>
