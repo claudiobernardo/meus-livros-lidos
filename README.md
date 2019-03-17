@@ -19,5 +19,5 @@
 005 - **A Melhor Notícia da Páscoa** - Editora Fiel</br>
 004 - **Manuel Prático de Redes** -  Laércio e Marcelo Vasconcelos</br>
 003 - **O Hobbit e a Filosofia** - William Irwin</br>
-002 - **10 Acusações contra a Igreja Moderna** - Paul Washer</br>
-001 - **Git e Github** - Casa do Código</br>
+**002** - 10 Acusações contra a Igreja Moderna - Paul Washer</br>
+**001** - Git e Github - Casa do Código</br>
