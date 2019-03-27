@@ -14,8 +14,8 @@
 010 - **Eleição** - C.H Spurgeon</br>
 009 - **Guia Front-End** - Casa do Código</br>
 008 - **O Clique de 1 Bilhão de Dólares** - Filipe Vilicic</br>
-007 - **Java com Orientação a Objeto** - Alex Coelho</br>
-006 - **Java - Guia do Programador** - Peter Jandl Junior</br>
+**007** - Java com Orientação a Objeto - Alex Coelho</br>
+**006** - Java - Guia do Programador - Peter Jandl Junior</br>
 **005** - A Melhor Notícia da Páscoa - Editora Fiel</br>
 **004** - Manuel Prático de Redes -  Laércio e Marcelo Vasconcelos</br>
 **003** - O Hobbit e a Filosofia - William Irwin</br>
