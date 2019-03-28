@@ -21,9 +21,8 @@
 **003** - O Hobbit e a Filosofia - William Irwin</br>
 **002** - 10 Acusações contra a Igreja Moderna - Paul Washer</br>
 **001** - Git e Github - Casa do Código</br>
- 
- ---
-
+</br>
+</br>
 051 - </br>
 050 - </br>
 049 - </br>
