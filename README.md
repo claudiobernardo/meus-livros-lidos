@@ -70,7 +70,7 @@
 007 - </br>
 006 - </br>
 005 - </br>
-004 - </br>
-003 - </br>
-002 - </br>
-001 - </br>
+**004** - Maria - Augusto Cury</br>
+**003** - O Deus Esquecido - Francis Chan</br>
+**002** - Mulheres Inteligentes, Relações Saudáveis - Augusto Cury</br>
+**001** - Bandeira Nordestina - Jessier Quirino</br>
