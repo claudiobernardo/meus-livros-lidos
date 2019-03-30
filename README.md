@@ -46,21 +46,21 @@
 031 - </br>
 030 - </br>
 029 - </br>
-028 - </br>
-027 - </br>
-026 - </br>
-025 - </br>
-024 - </br>
-023 - </br>
-022 - </br>
-021 - </br>
-020 - </br>
-019 - </br>
-018 - </br>
-017 - </br>
-016 - </br>
-015 - </br>
-014 - </br>
+**028** - </br>
+**027** - O clique de 1 bilhão de dólares - Filipe Vilicic</br>
+**026** - O código da inteligência - Augusto Cury</br>
+**025** - O ateísmo cristão - Augustus Nicodemus</br>
+**024** - Dom Casmurro - Machado de Assis</br>
+**023** - O que estão fazendo com a igreja - Augustus Nicodemus</br>
+**022** - Prosa Morena - Jessier Quirino</br>
+**021** - A Ameaça da Mediocridade</br>
+**020** - Nariz de Vidro - Mario Quintana</br>
+**019** - Xelotes - Dave Gibbons</br>
+**018** - Polêmicas na Igreja - Augustus Nicodemus</br>
+**017** - A receita para cumprir seus objetivos - Silas Malafaia</br>
+**016** - Jesus Vem - Silas Malafaia</br>
+**015** - Um novo tempo para você - Silas Malafaia</br>
+**014** - Vencendo a Depressão - Silas Malafaia</br>
 **013** - Mais que um carpinteiro - Josh McDowell e Sean McDowell</br>
 **012** - Pense bem antes de enviar - Dr. Emerson Eggerichs</br>
 **011** - Deus não está morto - Rice Broocks</br>
