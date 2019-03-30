@@ -43,10 +43,10 @@
 034 - </br>
 033 - </br>
 032 - </br>
-031 - </br>
-030 - </br>
-029 - </br>
-**028** - </br>
+**031** - </br>
+**030** - O Peregrino - João Bunyan</br>
+**029** - Mentes brilhantes, Mentes treinadas - Augusto Cury</br>
+**028** - Você é Insubstituível - Augusto Cury</br>
 **027** - O clique de 1 bilhão de dólares - Filipe Vilicic</br>
 **026** - O código da inteligência - Augusto Cury</br>
 **025** - O ateísmo cristão - Augustus Nicodemus</br>
