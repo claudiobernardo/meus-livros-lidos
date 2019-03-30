@@ -61,15 +61,15 @@
 016 - </br>
 015 - </br>
 014 - </br>
-013 - </br>
-012 - </br>
-011 - </br>
-010 - </br>
-009 - </br>
-008 - </br>
-007 - </br>
-006 - </br>
-005 - </br>
+**013** - Mais que um carpinteiro - Josh McDowell e Sean McDowell</br>
+**012** - Pense bem antes de enviar - Dr. Emerson Eggerichs</br>
+**011** - Deus não está morto - Rice Broocks</br>
+**010** - O Colecionador de Lágrimas - Augusto Cury</br>
+**009** - A Saga de um Rei - Ieda de Oliveira</br>
+**008** - O Resgate da Verdade - Michelson Borges</br>
+**007** - A Arte da Guerra - Sun Tzu</br>
+**006** - O Poder da Decisão - Silas Malafaia</br>
+**005** - Irmão Negro - Walcyr Carrasco</br>
 **004** - Maria - Augusto Cury</br>
 **003** - O Deus Esquecido - Francis Chan</br>
 **002** - Mulheres Inteligentes, Relações Saudáveis - Augusto Cury</br>
