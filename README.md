@@ -27,23 +27,23 @@
 050 - </br>
 049 - </br>
 048 - </br>
-047 - </br>
-046 - </br>
-045 - </br>
-044 - </br>
-043 - </br>
-042 - </br>
-041 - </br>
-040 - </br>
-039 - </br>
-038 - </br>
-037 - </br>
-036 - </br>
-035 - </br>
-034 - </br>
-033 - </br>
-032 - </br>
-**031** - </br>
+**047** - </br>
+**046** - Estrela da vida inteira - Manuel Bandeira</br>
+**045** - Eleitos no Filho - Robert Shank</br>
+**044** - Seja lider de si mesmo - Augusto Cury</br>
+**043** - Revolucione sua qualidade de vida - Augusto Cury</br>
+**042** - 12 semanas para mudar uma vida - Augusto Cury</br>
+**041** - Treinando a emoção para ser feliz - Augusto Cury</br>
+**040** - Hercólubus ou planeta vermelho - V.M Rabolú</br>
+**039** - Coleções - Mario Quintana - Fausto Cunha</br>
+**038** - A Verdadeira Vitória do Cristão - Maurício Zágari</br>
+**037** - Felicidade ou Sofrimento - Silas Malafaia</br>
+**036** - Como ser abençoado? - Silas Malafaia</br>
+**035** - O Grande Abismo - C.S Lewis</br>
+**034** - Dom Casmurro e os discos voadores - Lúcio Manfradi</br>
+**033** - O Hobbit e a Filosofia - Willian Irwin</br>
+**032** - Temperamentos Transformados - Tim LaHaye</br>
+**031** - Byron - Poemas</br>
 **030** - O Peregrino - João Bunyan</br>
 **029** - Mentes brilhantes, Mentes treinadas - Augusto Cury</br>
 **028** - Você é Insubstituível - Augusto Cury</br>
