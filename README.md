@@ -1,48 +1,33 @@
 ## :books: REGISTRO: Meus livros lidos.
-### 2019
-
-020 - **Fale Bem Inglês** - Ben Parry Davies</br>
-018 - **Os Melhores Sonetos** - William Shakespeare</br>
-017 - **Cinco Minutos** - José de Alencar</br>
-014 - **O Milagre da Manhã** - Hal Elrod</br>
-013 - **HTML5 e CSS3** - Casa do Código</br>
-012 - **Eleitos no Filho** - Robert Shank</br>
-011 - **23 Hábitos Anti-Procrastinação** - S.J Scott</br>
-010 - **Eleição** - C.H Spurgeon</br>
-009 - **Guia Front-End** - Casa do Código</br>
-**007** - Java com Orientação a Objeto - Alex Coelho</br>
-**006** - Java - Guia do Programador - Peter Jandl Junior</br>
-**005** - A Melhor Notícia da Páscoa - Editora Fiel</br>
-**004** - Manuel Prático de Redes -  Laércio e Marcelo Vasconcelos</br>
-**002** - 10 Acusações contra a Igreja Moderna - Paul Washer</br>
-**001** - Git e Github - Casa do Código</br>
-</br>
-</br>
 
 
-
-80
-79
-78
-77
-76
-75
-74
-73
-72
-71
-70
-69
-68
-67
-66
-65
-64
-63
-62
-**61** - </br>
-**060** - </br>
-**059** - </br>
+**085** - Fale Bem Inglês - Ben Parry Davies</br>
+**084** - Os Melhores Sonetos - William Shakespeare</br>
+**083** - Cinco Minutos - José de Alencar</br>
+**082** - O Milagre da Manhã - Hal Elrod</br>
+**081** - HTML5 e CSS3 - Casa do Código</br>
+**080** - Eleitos no Filho - Robert Shank</br>
+**079** - 23 Hábitos Anti-Procrastinação - S.J Scott</br>
+**078** - Eleição - C.H Spurgeon</br>
+**077** - Guia Front-End - Casa do Código</br>
+**076** - Java com Orientação a Objeto - Alex Coelho</br>
+**075** - Java - Guia do Programador - Peter Jandl Junior</br>
+**074** - A Melhor Notícia da Páscoa - Editora Fiel</br> 
+**073** - Manuel Prático de Redes -  Laércio e Marcelo Vasconcelos</br>
+**072** - 10 Acusações contra a Igreja Moderna - Paul Washer</br>
+**071** - Git e Github - Casa do Código</br>
+**070** - Tecnologia da Informação - Denis Rezende</br>
+**069** - Manual de Artigos Científicos - Hortencia A. Gonçalves</br>
+**068** - DN pontocom - Daniel Nascimento</br>
+**067** - Será que TI é tudo - Nicholas G. Carr</br>
+**066** - Conectiva Linux - Casa, Escritório - Guia do Usuário</br>
+**065** - Conectiva Linux - Guia do Usuário</br>
+**064** - Hacker Inside - Top Secret File 5</br>
+**063** - Hacker Inside - Top Secret File 4</br>
+**062** - Hacker Inside - Top Secret File 3</br>
+**061** - Hacker Inside - Top Secret File 2</br>
+**060** - Hacker Inside - Top Secret File 1</br>
+**059** - Como fazer expansões de hardware no seu PC - Laércio Vasconcelos</br>
 **058** - O Monge e o Executivo - James C.Hunter</br>
 **057** - A sabedoria nosso de cada dia - Augusto Cury</br>
 **056** - Os segredos do Pai-Nosso - Augusto Cury</br>
