@@ -23,11 +23,43 @@
 **001** - Git e Github - Casa do Código</br>
 </br>
 </br>
-051 - </br>
-050 - </br>
-049 - </br>
-048 - </br>
-**047** - </br>
+
+
+
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+**61** - </br>
+**060** - </br>
+**059** - </br>
+**058** - O Monge e o Executivo - James C.Hunter</br>
+**057** - A sabedoria nosso de cada dia - Augusto Cury</br>
+**056** - Os segredos do Pai-Nosso - Augusto Cury</br>
+**055** - Em busca do sentido da vida - Augusto Cury</br>
+**054** - De gênio e louco todo mundo tem um pouco - Augusto Cury</br>
+**053** - Dez leis para ser feliz - Augusto Cury</br>
+**052** - Nunca desista de seus sonhos - Augusto Cury</br> 
+**051** - O vampiro de curitiba - Dalton Trevisan</br>
+**050** - O semeador de ideias - Augusto Cury</br>
+**049** - Coisas que todo garoto deve saber - Antônio Carlos Vilela</br>
+**048** - O vendedor de sonhos - o chamado - Augusto Cury</br>
+**047** - O vendedor de sonhos - Augusto Cury</br>
 **046** - Estrela da vida inteira - Manuel Bandeira</br>
 **045** - Eleitos no Filho - Robert Shank</br>
 **044** - Seja lider de si mesmo - Augusto Cury</br>
