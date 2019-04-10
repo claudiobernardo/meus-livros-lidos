@@ -1,7 +1,6 @@
 ## :books: REGISTRO: Meus livros lidos.
 
 
-
 **085** - Fale Bem Inglês - Ben Parry Davies</br>
 **084** - Os Melhores Sonetos - William Shakespeare</br>
 **083** - Cinco Minutos - José de Alencar</br>
