@@ -6,4 +6,4 @@
 **065** - Conectiva Linux - Guia do Usuário</br>
 **038** - A Verdadeira Vitória do Cristão - Maurício Zágari</br>
 **021** - A Ameaça da Mediocridade</br>
-**012** - Pense bem antes de enviar - Dr. Emerson Eggerichs</br>
+**012** - Pense bem antes de enviar - Dr. Emerson Eggerichs
